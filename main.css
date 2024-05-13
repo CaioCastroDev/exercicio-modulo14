@@ -1,0 +1,50 @@
+body{
+    font-family: Roboto, sans-serif;
+}
+
+
+.navbar {
+    background-color: #DCFCDB;
+}
+
+.navbar img {
+    width: 100px;
+}
+
+.section-title {
+    font-family: "Send Flowers", cursive;
+    font-weight: bold;
+}                           
+
+.nav .nav-link.active, #contato button {
+    color:#fff;
+    background-color: #008000;
+}
+
+.nav .nav-link,
+.cortext{
+    color: #1bbb1b;
+}
+
+#sobre-mim, #contato {
+    background-color: #dcfcdc81;
+}
+
+.bolos li {
+    list-style: none;
+}
+
+.social li{
+    list-style: none;
+    display: inline;
+}
+
+.social a{
+    text-decoration: none;
+
+}
+
+.carousel-item img,
+.rodape img {
+    width: 400px;
+}
